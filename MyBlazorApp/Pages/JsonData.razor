@@ -1,0 +1,31 @@
+@page "/jsondata"
+@inject HttpClient Http
+
+<h3>JSON Data</h3>
+
+@if (people == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    foreach (var person in people)
+    {
+        <p>Name: @person.Name, Age: @person.Age</p>
+    }
+}
+
+@code {
+    private Person[]? people;
+
+    protected override async Task OnInitializedAsync()
+    {
+        people = await Http.GetFromJsonAsync<Person[]>("jsonfile.json");
+    }
+
+    public class Person
+    {
+        public string? Name { get; set; }
+        public int Age { get; set; }
+    }
+}

@@ -1,0 +1,18 @@
+@page "/conversion"
+
+<h3>Conversion</h3>
+
+<p>Enter meters: <input @bind="meters" /> </p>
+<p>Feet: @feet</p>
+
+<p>Enter km/h: <input @bind="kmh" /> </p>
+<p>Miles/hour: @mph</p>
+
+@code {
+    double meters;
+    double feet => Math.Round(meters * 3.281, 2);
+    double kmh;
+    double mph => Math.Round(kmh * 0.621371);
+
+    // Add methods to handle conversion if needed
+}

@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = MyBlazorApp
+build_property.RootNamespace = MyBlazorApp
+build_property.ProjectDir = C:\xampp\htdocs\Universitetet\.NET\DT191G-M1.2\MyBlazorApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\xampp\htdocs\Universitetet\.NET\DT191G-M1.2\MyBlazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/Pages/Conversion.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVyc2lvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/Pages/JsonData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnNvbkRhdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/Shared/MyComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE15Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-eyj5h477o4
+
+[C:/xampp/htdocs/Universitetet/.NET/DT191G-M1.2/MyBlazorApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-r24updt3ja
