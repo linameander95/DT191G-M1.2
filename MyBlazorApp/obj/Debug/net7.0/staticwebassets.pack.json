@@ -5,24 +5,12 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\obj\\Debug\\net7.0\\build-gz\\F4uL6Idd.gz",
+      "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\obj\\Debug\\net7.0\\compressed\\mn77lvnezi.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyBlazorApp.styles.css",
-      "PackagePath": "staticwebassets\\MyBlazorApp.styles.css"
-    },
-    {
-      "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\wwwroot\\css\\app.css",
-      "PackagePath": "staticwebassets\\css\\app.css"
-    },
-    {
-      "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+      "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
     },
     {
       "Id": "C:\\xampp\\htdocs\\Universitetet\\.NET\\DT191G-M1.2\\MyBlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
